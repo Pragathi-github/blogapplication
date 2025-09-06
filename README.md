@@ -2,7 +2,6 @@
 
 Blog Verse is a dynamic and responsive full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a platform for users to create accounts, publish their own blog posts, and interact with other posts through comments.
 
-[Image of a modern blog website interface]
 
 ## Key Features
 
